@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--VituixCAD DRIVER DATA-->
+<!--Version 2-->
+<DRIVERS>
+  <DRIVER>
+    <Manufacturer>HiVi</Manufacturer>
+    <Model>M8N-1</Model>
+    <Type>WM</Type>
+    <Status>Active</Status>
+    <Size>8</Size>
+    <Re>8</Re>
+    <fs>29</fs>
+    <Qms>5.02</Qms>
+    <Qes>0.5</Qes>
+    <Qts>0.45</Qts>
+    <Rms>3.41</Rms>
+    <Mms>36.5</Mms>
+    <Cms>0.822</Cms>
+    <Vas>53.5</Vas>
+    <Sd>214</Sd>
+    <BL>9.6</BL>
+    <Pmax>80</Pmax>
+    <Xmax>5.8</Xmax>
+    <Beta>0</Beta>
+    <Z1k>10.9</Z1k>
+    <Z10k>42.3</Z10k>
+    <Revision />
+    <Updated />
+  </DRIVER>
+</DRIVERS>
