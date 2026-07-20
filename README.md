@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-		<img src="images/AcoustiTeK_Logo.png" width="200">
+		<img src="AcoustiTeK_Logo.png" width="200">
 	<br>
 		AcoustiTeK
 	<br>
