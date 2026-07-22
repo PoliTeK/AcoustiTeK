@@ -36,7 +36,7 @@
 
 # Technical Documentation
 
-The complete design process, simulations, acoustic analysis, crossover calculations, measurements, and construction guide can be found inside the **Technical Documentation** included in this repository.
+The complete design process, simulations, acoustic analysis, crossover calculations, measurements, and construction guide can be found inside the <a href="https://github.com/PoliTeK/AcoustiTeK/tree/main/documents">**documents**</a> folder included in this repository.
 
 ---
 
